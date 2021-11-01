@@ -1,0 +1,2 @@
+Repositorio para el reto Git 
+En este ejercicio se aprenderá lo básico de Git y GitHub 
